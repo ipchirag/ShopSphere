@@ -5,13 +5,12 @@ ShopSphere is a backend e-commerce application built using Java and Spring Boot.
 ## Tech Stack
 
 * Java 17
-* Spring Boot 3
+* Spring Boot 4
 * Maven
 * Spring Data JPA / Hibernate
 * MySQL
 * Bean Validation
-* Spring Security and JWT — if implemented
-
+* Spring Security and JWT
 ## Features
 
 * RESTful API architecture
